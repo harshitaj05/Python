@@ -42,16 +42,24 @@ dict_1 = {
 # sets= {"Python", "Java", "C++", "Python", "Javascript", "Java","Python", "Java", "C++", "C"}
 # print(len(sets))
 
-dict1= {}
+# dict1= {}
 
-markseng= int(input("enter eng marks : "))
-dict1.update ({"English": markseng})
+# markseng= int(input("enter eng marks : "))
+# dict1.update ({"English": markseng})
 
 
-marksmaths= int(input("enter maths marks : "))
-dict1.update ({"Maths": marksmaths})
+# marksmaths= int(input("enter maths marks : "))
+# dict1.update ({"Maths": marksmaths})
 
-marksbst= int(input("enter bst marks : "))
-dict1.update ({"BST": marksbst})  
+# marksbst= int(input("enter bst marks : "))
+# dict1.update ({"BST": marksbst})  
 
-print(dict1)
+# print(dict1)
+
+A= 9
+B= 9.0
+set = {A, B}
+print(type(A))
+print(type(B))
+
+
