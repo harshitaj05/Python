@@ -44,3 +44,57 @@
 #     idx +=1 
 
 
+
+# tup  = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100)
+
+# x= 36
+
+# i = 0
+# while i < len(tup):
+#     if(tup[i] == x):
+#         print("Found at index", i)
+#         break 
+#     else:
+#         print("Finding...")
+# i += 1
+
+# print("End") 
+
+# i=1
+# while i<= 10:
+#     if(i%2 == 0):
+#         i += 1
+#         continue
+#     print(i)
+#     i+=1 
+
+# A= "apnacollegelearning"
+# for sow in A:
+#     if( sow == "o"):
+#         print("o found")
+#         break
+#     print(sow)
+# else:
+#     print("end")
+
+# list = [ 1,4,9,16,25,36,49,64,81,100]
+# for el in list:
+#     if(el == 49):
+#         print(el, "7square found")
+#         break
+#     print(el)
+# else:
+#     print("Searching", el)
+
+seq = range(10)
+
+for el in seq:
+    print(el)
+
+    #or
+
+for el in range(1,9):
+    print(el)
+
+for el in range(0,15,2):
+    print(el)
