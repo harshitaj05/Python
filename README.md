@@ -27,10 +27,11 @@ This repository reflects my dedication to consistent learning — a place where 
 
 | 📅 Day   | 📚 Topic / What I Learned                     | 📁 Code |
 |--------|-----------------------------------------------|--------|
-| Day 01 |Getting Started(Hello World) |  [Day1a.py](Day1a.py) |
-| Day 02 |Strings, Variables|  [day2.py](Day2.py) |
-| Day 03 |Lists, Tuple, Conditional Statements  |  [Day3.py](Day3.py) |
-| Day 04 |Dictionary, Sets  |  [day4.py](Day4.py) |
+| Day 01 |Variables and Datatypes|  [Day1a.py](Day1a.py) |
+| Day 02 |Strings and Conditional Statements|  [day2.py](Day2.py) |
+| Day 03 |Lists and Tuple in Python|  [Day3.py](Day3.py) |
+| Day 04 |Dictionary and Sets in Python|  [day4.py](Day4.py) |
+| Day 05 |Loops in Python|  [Day5.py](Day5.py) |
 
 
 
